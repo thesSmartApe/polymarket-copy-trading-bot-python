@@ -39,7 +39,11 @@ python -m src.scripts.setup.setup
 python -m src.main
 ```
 
-**Video:** A step-by-step video on how to run the Polymarket Python copy trading bot is available—check the repository or [releases](https://github.com/thesSmartApe/polymarket-copy-trading-bot-python/releases) for the walkthrough.
+**Video:** A step-by-step video on how to run the Polymarket Python copy trading bot is available—check the repository
+
+
+https://github.com/user-attachments/assets/36df556a-19a4-489e-bc79-b22bc995638c
+
 
 📖 **Full setup:** See **[python/README.md](python/README.md)** and **[python/docs/GETTING_STARTED.md](python/docs/GETTING_STARTED.md)** for detailed installation and configuration.
 
